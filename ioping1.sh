@@ -1,1 +1,1 @@
-sudo ioping -c 100 
+sudo ioping -c 100 .
